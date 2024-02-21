@@ -1,9 +1,10 @@
 ### Hi there 👋 
-Soy un entusiasta de la investigación y las nuevas tecnologías, con un historial sólido en diversas disciplinas 💻. ¿Mi misión? Impulsar soluciones creativas y efectivas en proyectos innovadores 🚀. 
+I'm an enthusiast for research and technology with a solid track record in various disciplines 💻. My mission? Driving creative and effective solutions in innovative projects 🚀. 
 
-He trabajado extensamente en mantenimiento informático 🛠, desarrollo de software 🌐, proyectos de telecomunicaciones 📡 y en el uso avanzado de programas de representación geográfica 🌍.
+I've extensively worked in computer maintenance 🛠, software development 🌐, telecommunications projects 📡, and advanced usage of geographic representation programs 🌍.
 
-Siempre vibrante para nuevos desafíos y oportunidades para llevar mi experiencia a proyectos emocionantes. ¡Vamos a colaborar en soluciones innovadoras! 💡
+Always vibrant for new challenges and opportunities to bring my expertise into exciting projects. Let's collaborate on innovative solutions! 💡
+
 <!--
 **RicardoChocanoDelCerro/RicardoChocanoDelCerro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
