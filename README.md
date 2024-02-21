@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there 👋 
+Soy un entusiasta de la investigación y las nuevas tecnologías, con un historial sólido en diversas disciplinas 💻. ¿Mi misión? Impulsar soluciones creativas y efectivas en proyectos innovadores 🚀. 
 
+He trabajado extensamente en mantenimiento informático 🛠, desarrollo de software 🌐, proyectos de telecomunicaciones 📡 y en el uso avanzado de programas de representación geográfica 🌍.
+
+Siempre vibrante para nuevos desafíos y oportunidades para llevar mi experiencia a proyectos emocionantes. ¡Vamos a colaborar en soluciones innovadoras! 💡
 <!--
 **RicardoChocanoDelCerro/RicardoChocanoDelCerro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
